@@ -1,0 +1,186 @@
+:: StoryTitle
+Naufrago
+
+
+:: StoryData
+{
+  "ifid": "22809941-455B-4F8C-B3F0-80487D92A983",
+  "format": "Harlowe",
+  "format-version": "3.3.4",
+  "start": "Pasaje sin título",
+  "zoom": 1
+}
+
+
+:: Javier construye un bote y se arriesga a navegar en busca de ayuda. {"position":"1350,725","size":"100,100"}
+Capítulo 5: La huida
+
+Javier construye un bote y se arriesga a navegar en busca de ayuda. Después de varios días de navegación, finalmente es encontrado por un barco de pesca y rescatado. Aunque está agradecido por haber sobrevivido, se siente un poco triste al dejar atrás su nueva vida en la isla.
+
+Opción 1: [[Javier decide volver a visitar la isla con frecuencia.]]
+Opción 2: [[Javier decide dejar atrás su experiencia en la isla y continuar con su vida anterior.]]
+
+
+:: Javier decide construir una embarcación y tratar de llegar a alguna parte de la costa para buscar ayuda. {"position":"750,675","size":"100,100"}
+Capítulo 4: La embarcación
+
+Javier decide construir una embarcación y tratar de llegar a alguna parte de la costa para buscar ayuda. Con los recursos que ha recolectado, es capaz de construir una embarcación rudimentaria, pero segura. Sin embargo, se da cuenta de que la travesía será peligrosa y que enfrentará muchos desafíos, como mal tiempo y corrientes marítimas fuertes.
+
+Opción 1: [[Javier decide embarcarse en su embarcación y arriesgarse a navegar en busca de ayuda.]]
+Opción 2: [[Javier decide permanecer en su campamento y seguir buscando otras opciones de salvación.]]
+
+
+:: Javier decide construir una señal de rescate en la playa para llamar la atención de los rescatistas. {"position":"1000,650","size":"100,100"}
+Capítulo 4: La señal de rescate
+
+Javier decide construir una señal de rescate en la playa para llamar la atención de los rescatistas. Usando los recursos que ha recolectado, construye un gran fuego y una señal en la arena que pueda ser vista desde el aire.
+
+Opción 1: [[Javier decide seguir manteniendo la señal de rescate encendida y esperando a ser rescatado.]]
+Opción 2: [[Javier decide explorar más la isla en busca de otras posibles formas de llamar la atención de los rescatistas o de otras personas que puedan estar en la isla.]]
+
+
+:: Javier decide dejar atrás su experiencia en la isla y continuar con su vida anterior. {"position":"1450,850","size":"100,100"}
+Javier decide dejar atrás su experiencia en la isla y continuar con su vida anterior. Aunque ha cambiado mucho como persona debido a su experiencia, decide seguir adelante y no mirar atrás. Agradecido por estar vivo y tener una segunda oportunidad, decide aprovecharla al máximo y seguir adelante con su vida. Fin de la historia.
+
+
+:: Javier decide embarcarse en su embarcación y arriesgarse a navegar en busca de ayuda. {"position":"750,800","size":"100,100"}
+Capítulo 5: La travesía
+
+Javier decide embarcarse en su embarcación y arriesgarse a navegar en busca de ayuda. La travesía es difícil y llena de peligros, pero finalmente logra llegar a una costa habitada. Es recibido con los brazos abiertos por una comunidad local y finalmente logra contactar a su familia y amigos para informarles de su sobrevivencia. Agradecido por su experiencia y haber encontrado una forma de salir de la isla, se promete a sí mismo nunca dar por sentado las cosas importantes en la vida.
+
+
+:: Javier decide establecer un campamento temporal y recolectar más recursos antes de continuar su búsqueda de una forma de salir de la isla. {"position":"750,550","size":"100,100"}
+Capítulo 3: El campamento
+
+Javier decide establecer un campamento temporal y recolectar más recursos antes de continuar su búsqueda de una forma de salir de la isla. Con el tiempo, consigue construir un refugio y recolectar suficientes suministros para sobrevivir un tiempo prolongado en la isla. Sin embargo, se da cuenta de que su situación es desesperada y que debe encontrar una forma de salir de la isla cuanto antes.
+
+Opción 1: [[Javier decide seguir explorando la isla en busca de una forma de salir.]]
+Opción 2: [[Javier decide construir una embarcación y tratar de llegar a alguna parte de la costa para buscar ayuda.]]
+
+
+:: Javier decide explorar la isla en busca de ayuda y recursos. {"position":"600,400","size":"100,100"}
+Capítulo 2: La exploración
+
+Javier decide explorar la isla en busca de ayuda y recursos. A medida que avanza, se da cuenta de que la isla es mucho más grande de lo que pensaba y que está llena de peligros, como animales salvajes y condiciones climáticas extremas. Sin embargo, también descubre algunas cosas útiles, como agua potable y comida.
+
+Opción 1: [[Javier decide seguir explorando la isla en busca de una forma de salir.]]
+Opción 2: [[Javier decide establecer un campamento temporal y recolectar más recursos antes de continuar su búsqueda de una forma de salir de la isla.]]
+
+
+:: Javier decide explorar la isla en busca de recursos y una forma de llamar la atención de los rescatistas. {"position":"875,500","size":"100,100"}
+Capítulo 3: La exploración
+
+Javier decide explorar la isla en busca de recursos y una forma de llamar la atención de los rescatistas. Durante su exploración, encuentra un arroyo con agua potable, frutas y vegetación comestible. Además, encuentra una cueva que puede usar como refugio.
+
+Opción 1: [[Javier decide construir una señal de rescate en la playa para llamar la atención de los rescatistas.]]
+Opción 2: [[Javier se centra en recolectar y almacenar suministros para sobrevivir en la isla el tiempo que sea necesario.]]
+
+
+:: Javier decide explorar más la isla en busca de otras posibles formas de llamar la atención de los rescatistas o de otras personas que puedan estar en la isla. {"position":"1125,775","size":"100,100"}
+Capítulo 5: El terror en la isla
+
+Javier decide explorar más la isla en busca de otras posibles formas de llamar la atención de los rescatistas o de otras personas que puedan estar en la isla. Durante su exploración, descubre una serie de extrañas construcciones y figuras talladas en la selva. A medida que se adentra más en la isla, comienza a sentir una sensación creciente de inquietud y peligro. Pronto se da cuenta de que no está solo en la isla, y que algo o alguien está observándolo en la oscuridad.
+
+Opción 1: [[Javier decide huir de la isla lo antes posible, incluso a riesgo de no ser rescatado.]]
+Opción 2: [[Javier decide investigar más a fondo lo que hay en la isla, a pesar del peligro que pueda representar.]]
+
+
+:: Javier decide huir de la isla lo antes posible, incluso a riesgo de no ser rescatado. {"position":"1125,900","size":"100,100"}
+Capítulo Final: El escape
+
+Javier decide huir de la isla lo antes posible, incluso a riesgo de no ser rescatado. Con pocos suministros y herido, emprende un viaje peligroso a través de la selva en busca de una forma de escapar de la isla. Sin embargo, durante su huida, se encuentra con lo que había buscado evitar: una criatura desconocida y aterradora que lo ataca. Javier lucha valientemente, pero finalmente cae ante la criatura. La historia termina con la triste muerte de Javier en la isla desierta, sin haber logrado escapar.
+
+
+:: Javier decide investigar más a fondo lo que hay en la isla, a pesar del peligro que pueda representar. {"position":"1250,900","size":"100,100"}
+Capítulo 6: El fin
+
+Javier decide investigar más a fondo lo que hay en la isla, a pesar del peligro que pueda representar. Se adentra cada vez más en la selva, siguiendo las extrañas construcciones y figuras talladas. Finalmente, llega a un claro donde descubre una antigua aldea abandonada. Mientras investiga, se da cuenta de que la aldea fue asesinada por una tribu canníbal que todavía habita en la isla.
+
+Javier intenta escapar, pero es capturado y asesinado por los cannibales. Su cuerpo es cocido y devorado por los cannibales. Su historia termina trágicamente en una isla desierta, donde nunca fue rescatado.
+
+
+:: Javier decide permanecer en su campamento y seguir buscando otras opciones de salvación. {"position":"875,800","size":"100,100"}
+Capítulo 5: El rescate
+
+Javier decide permanecer en su campamento y seguir buscando otras opciones de salvación. Después de varios días, finalmente ve un avión de rescate sobrevolando la isla. Con el último poco de energía, encender una fogata y señalizar con ella para llamar la atención del avión de rescate. Finalmente es rescatado y llevado a un hospital para recibir atención médica.
+
+
+:: Javier decide quedarse en el lugar del accidente y esperar a ser rescatado. {"position":"775,350","size":"100,100"}
+Capítulo 2: La espera
+
+Javier decide quedarse en el lugar del accidente y esperar a ser rescatado. Pasan los días y no hay señales de vida en la isla. A medida que sus suministros se agotan, comienza a dudar de su decisión.
+
+Opción 1: [[Javier decide explorar la isla en busca de recursos y una forma de llamar la atención de los rescatistas.]]
+Opción 2: [[Javier se rinde y se resigna a su destino, decidiendo quedarse en el mismo lugar a esperar su muerte.]]
+
+
+:: Javier decide seguir explorando la isla en busca de una forma de salir. {"position":"575,525","size":"100,100"}
+Capítulo 4: El encuentro
+
+Javier decide seguir explorando la isla en busca de una forma de salir. Durante su exploración, se encuentra con otro superviviente del accidente, una mujer llamada Maria. Juntos deciden unir fuerzas para tratar de encontrar una forma de salir de la isla.
+
+Opción 1: [[Juntos, Javier y Maria deciden construir una embarcación y tratar de llegar a alguna parte de la costa para buscar ayuda.]]
+Opción 2: [[Juntos, Javier y Maria deciden seguir explorando la isla en busca de una forma de salir.]]
+
+
+:: Javier decide seguir manteniendo la señal de rescate encendida y esperando a ser rescatado. {"position":"1000,775","size":"100,100"}
+Capítulo 5: El rescate
+
+Javier decide seguir manteniendo la señal de rescate encendida y esperando a ser rescatado. Finalmente, después de varios días, un avión de rescate lo ve y aterriza en la playa. Javier es salvado y llevado de vuelta a la civilización. Agradecido por su valentía y determinación, decidió contar su historia para inspirar a otros.
+
+
+:: Javier decide volver a visitar la isla con frecuencia. {"position":"1475,700","size":"100,100"}
+Javier decide volver a visitar la isla con frecuencia. A medida que se recupera de sus heridas, comienza a planear su próximo viaje a la isla. Aprendió mucho sobre sí mismo y la vida durante su tiempo allí, y no puede evitar sentir un fuerte lazo con ese lugar. Aunque es consciente de los peligros y las dificultades, decide volver a esa isla para recordar esa experiencia y continuar explorando la naturaleza y la vida.
+
+
+:: Javier se centra en recolectar y almacenar suministros para sobrevivir en la isla el tiempo que sea necesario {"position":"1225,600","size":"100,100"}
+Capítulo 4: La supervivencia
+
+Javier se centra en recolectar y almacenar suministros para sobrevivir en la isla el tiempo que sea necesario. Con el tiempo, aprende a cazar, pescar y cultivar su propia comida. Aunque sigue esperando ser rescatado, comienza a aceptar su nueva vida en la isla.
+
+Opción 1: [[Javier construye un bote y se arriesga a navegar en busca de ayuda.]]
+Opción 2: [[Javier se conforma con su vida en la isla y decide quedarse allí para siempre.]]
+
+
+:: Javier se centra en recolectar y almacenar suministros para sobrevivir en la isla el tiempo que sea necesario. {"position":"1100,475","size":"100,100"}
+Capítulo 3: La exploración
+
+Javier decide explorar la isla en busca de recursos y una forma de llamar la atención de los rescatistas. Durante su exploración, encuentra un arroyo con agua potable, frutas y vegetación comestible. Además, encuentra una cueva que puede usar como refugio.
+
+Opción 1: [[Javier decide construir una señal de rescate en la playa para llamar la atención de los rescatistas.]]
+Opción 2: [[Javier se centra en recolectar y almacenar suministros para sobrevivir en la isla el tiempo que sea necesario]]
+
+
+:: Javier se conforma con su vida en la isla y decide quedarse allí para siempre. {"position":"1375,550","size":"100,100"}
+Capítulo 5: El final
+
+Javier se conforma con su vida en la isla y decide quedarse allí para siempre. Aunque nunca fue rescatado, aprendió a sobrevivir y a vivir de manera autónoma en la isla. Vivió el resto de sus días en paz y armonía con la naturaleza, rodeado de belleza y tranquilidad. Aunque nunca volvió a ver a su familia y amigos, encontró la felicidad en su nueva vida en la isla desierta.
+
+
+:: Javier se rinde y se resigna a su destino, decidiendo quedarse en el mismo lugar a esperar su muerte. {"position":"900,275","size":"100,100"}
+Capítulo 3: El final
+
+Javier se rinde y se resigna a su destino, decidiendo quedarse en el mismo lugar a esperar su muerte. Pasan los días y su salud empeora debido a la falta de comida y agua. Sin ninguna esperanza de ser rescatado, Javier finalmente fallece en la isla desierta.
+
+Lamentablemente esta historia termina aca, ya que no hay opciones a elegir ya que Javier perdió la vida en esa isla desierta.
+
+
+:: Juntos, Javier y Maria deciden construir una embarcación y tratar de llegar a alguna parte de la costa para buscar ayuda. {"position":"625,675","size":"100,100"}
+Capítulo 5: El amor en la isla
+
+Juntos, Javier y Maria deciden construir una embarcación y tratar de llegar a alguna parte de la costa para buscar ayuda. Durante el proceso de construcción, los dos se enamoran. Finalmente, logran completar la embarcación y se embarcan en un peligroso viaje hacia la costa. Después de varios días de navegación, llegan a una aldea cercana donde son recibidos con los brazos abiertos y finalmente rescatados.
+Javier y Maria regresan a casa juntos, agradecidos por haber encontrado el amor en medio de las adversidades.
+
+
+:: Juntos, Javier y Maria deciden seguir explorando la isla en busca de una forma de salir. {"position":"475,675","size":"100,100"}
+Capítulo 5: El Fin
+Javier y Maria siguen explorando la isla, pero su situación se complica cuando descubren que la isla esta habitada por una raza alienígena. A pesar de sus esfuerzos, los dos se ven atrapados y no encuentran una salida. Finalmente, los alienígenas se revelan como los responsables del fallo en el avión y explican que todo había sido parte de un experimento para estudiar a los humanos. Incapaces de encontrar una forma de salir, Javier y Maria deciden quedarse en la isla con los alienígenas, como sujetos de estudio para siempre.
+
+
+:: Pasaje sin título {"position":"625,275","size":"100,100"}
+Capítulo 1: El accidente
+
+Javier se encontraba viajando en un avión de pasajeros cuando de repente sucedió un fallo mecánico. El avión comenzó a caer en picada y a pesar de los esfuerzos del piloto, no pudieron evitar un aterrizaje forzoso en una isla desierta. Javier logró sobrevivir al accidente, pero se encuentra herido y con pocos suministros.
+
+Opción 1: [[Javier decide explorar la isla en busca de ayuda y recursos.]]
+Opción 2: [[Javier decide quedarse en el lugar del accidente y esperar a ser rescatado.]]
